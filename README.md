@@ -1,7 +1,7 @@
-# pinkWorld
-Repository no. 1
+# pinkpinkWorld
 
-tacobell, junglebell, jacobbell
+
+taco, junglebell, jacobbell
 
 
 啦啦啦啦若若若若若若若若若若
